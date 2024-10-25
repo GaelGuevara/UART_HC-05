@@ -1,0 +1,1 @@
+La libreria HC05 depende de la libreria UART para poder mandar los datos por el puerto serie
